@@ -2,10 +2,10 @@
 # -----------------------------
 # Specify location of the files
 # -----------------------------
-header_file_path <- "../data/txgeo2020.pl"
-part1_file_path  <- "../data/tx000012020.pl"
-part2_file_path  <- "../data/tx000022020.pl"
-part3_file_path  <- "../data/tx000032020.pl"
+header_file_path <- "./data/txgeo2020.pl"
+part1_file_path  <- "./data/tx000012020.pl"
+part2_file_path  <- "./data/tx000022020.pl"
+part3_file_path  <- "./data/tx000032020.pl"
 
 # -----------------------------
 # Import the data
@@ -485,3 +485,5 @@ combine <- combine[order(combine$LOGRECNO), c("FILEID", "STUSAB", "SUMLEV", "GEO
                                               "LSADC", "PARTFLAG", "UGA", paste0("P00", c(10001:10071, 20001:20073)), paste0("P00", c(30001:30071, 40001:40073)), 
                                               paste0("H00", 10001:10003), paste0("P00", 50001:50010))]
 rownames(combine) <- 1:nrow(combine)
+
+saveRDS(combine, file = "./data/txcensus.rds")
