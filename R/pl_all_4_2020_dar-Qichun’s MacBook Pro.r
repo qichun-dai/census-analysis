@@ -7,7 +7,6 @@ part1_file_path  <- "./data/tx000012020.pl"
 part2_file_path  <- "./data/tx000022020.pl"
 part3_file_path  <- "./data/tx000032020.pl"
 
-
 # -----------------------------
 # Import the data
 # -----------------------------
