@@ -2,20 +2,31 @@
 # -----------------------------
 # Specify location of the files
 # -----------------------------
-header_file_path <- "./data/txgeo2020.pl"
-part1_file_path  <- "./data/tx000012020.pl"
-part2_file_path  <- "./data/tx000022020.pl"
-part3_file_path  <- "./data/tx000032020.pl"
+header_file_path <- "../Data/tx2020.pl/txgeo2020.pl"
+part1_file_path  <- "../Data/tx2020.pl/tx000012020.pl"
+part2_file_path  <- "../Data/tx2020.pl/tx000022020.pl"
+part3_file_path  <- "../Data/tx2020.pl/tx000032020.pl"
+
+header_file_path10 <- "../Data/tx2010.pl/txgeo2010.pl"
+part1_file_path10  <- "../Data/tx2010.pl/tx000012010.pl"
+part2_file_path10  <- "../Data/tx2010.pl/tx000022010.pl"
 
 
 # -----------------------------
 # Import the data
 # -----------------------------
-header <- read.delim(header_file_path, header=FALSE, colClasses="character", sep="|")
-part1  <- read.delim(part1_file_path,  header=FALSE, colClasses="character", sep="|")
-part2  <- read.delim(part2_file_path,  header=FALSE, colClasses="character", sep="|")
-part3  <- read.delim(part3_file_path,  header=FALSE, colClasses="character", sep="|")
+header <- read.delim(header_file_path, header=FALSE, colClasses="character",sep="|")
+part1  <- read.delim(part1_file_path,  header=FALSE, colClasses="character", sep="|",nrows=2000)
+part2  <- read.delim(part2_file_path,  header=FALSE, colClasses="character", sep="|",nrows=2000)
+part3  <- read.delim(part3_file_path,  header=FALSE, colClasses="character", sep="|",nrows=2000)
+# -----------------------------
+# Import the data 2010
+# -----------------------------
+header_10 <- read.delim(header_file_path10, header=FALSE, colClasses="character",sep="",nrows=2000)
+part1_10  <- read.delim(part1_file_path10,  header=FALSE, colClasses="character", sep=",",nrows=2000)
+part2_10  <- read.delim(part2_file_path10,  header=FALSE, colClasses="character", sep=",",nrows=2000)
 
+print(utf8ToInt(header_10[1,1]))
 # -----------------------------
 # Assign names to data columns
 # -----------------------------

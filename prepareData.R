@@ -14,3 +14,6 @@ ouput <- tx %>%
          four_races = P0010047,
          five_races = P0010063,
          six_races = P0010070)
+
+write_csv(tx, file = "./data/txoutput.csv")
+
