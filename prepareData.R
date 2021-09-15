@@ -2,7 +2,7 @@ library(tidyverse)
 tx <- readRDS("./data/txcensus.rds")
 
 output <- tx %>% 
-  #filter(SUMLEV=='140') %>% 
+  filter(STUSAB=="TX") %>% 
   select(SUMLEV,COUNTY,PLACE,TRACT,BLOCK,UA,UATYPE,ZCTA,SDELM,
                        SDSEC,SDUNI,POP100,HU100,INTPTLAT,INTPTLON,
                        P0010001,P0010002,P0010003,P0010004,P0010005,P0010006,
