@@ -1,26 +1,26 @@
-﻿station_no,Name,Location,Latitude,Longitude
-1,Parker Road Station,"2600 Archerwood St., Plano",33.03414387,-96.7007618
-2,Downtown Plano Station,"1001 E. 16th St., Plano",33.0208544,-96.70094337
-3,CityLine/Bush Station,"1300 E. President George Bush Highway, Richardson",33.00215186,-96.70321026
-4,Galatyn Park Station,"2300 N. Central Expressway, Richardson",32.98467702,-96.711318
-5,Arapaho Center Station,"1051 N. Greenville Ave., Richardson",32.96368521,-96.72284275
-6,Spring Valley Station,"100 W. Spring Valley Road, Richardson",32.94106207,-96.73738608
-7,LBJ/Central Station,"8901 Markville Dr., Dallas",32.91861615,-96.752022
-8,Forest Lane Station,"8210 Forest Lane, Dallas",32.90872893,-96.7617709
-9,Walnut Hill Station,"8150 Walnut Hill Lane, Dallas",32.88330987,-96.76474544
-10,Park Lane Station,"8169 Park Lane, Dallas",32.87283758,-96.76591444
-11,Lovers Lane Station,"5603 Milton St., Dallas",32.84921631,-96.77160392
-12,SMU/Mockingbird Station,"5465 E. Mockingbird Lane, Dallas",32.83811004,-96.77494712
-13,CityPlace/Uptown Station,"2711 N. Haskell Ave., Dallas",32.80559815,-96.79390736
-14,Pearl/Arts District Station,"Bryan Street, east of Pearl Street, Dallas",32.78655939,-96.79443607
-15,St Paul Station,"Bryan Street, between St. Paul & Harwood streets, Dallas",32.78452298,-96.79693521
-16,Akard Station,"Pacific Avenue, between Akard & Field streets, Dallas",32.78205774,-96.80085016
-17,West End Station,"Pacific Ave., between Market & Lamar streets, Dallas",32.781052,-96.80558875
-19,Eddie Bernice Johnson Union Station,"400 S. Houston St., Dallas",32.7764873,-96.80753597
-20,Convention Center Station,"727 Botham Jean Blvd., Dallas",32.77259251,-96.80428582
-21,Cedars Station,"1112 Belleview St., Dallas.",32.76898185,-96.79351706
-22,8th & Corinth Station,"1740 E. 8th St., Dallas",32.74840239,-96.7984724
-23,Dallas Zoo Station,"614 S. Ewing Ave., Dallas",32.74097622,-96.8129511
-24,Tyler/Vernon Station,"1225 S. Tyler St., Dallas",32.7334052,-96.83840128
-25,Hampton Station,"2002 S. Hampton Road, Dallas",32.72651727,-96.85537573
-26,Westmoreland Station,"2646 S. Westmoreland Road, Dallas",32.71993994,-96.87201963
+﻿station_no,Name,Location,Latitude,Longitude,ParkNRide
+1,Parker Road Station,"2600 Archerwood St., Plano",33.03414387,-96.7007618,No
+2,Downtown Plano Station,"1001 E. 16th St., Plano",33.0208544,-96.70094337,No
+3,CityLine/Bush Station,"1300 E. President George Bush Highway, Richardson",33.00215186,-96.70321026,No
+4,Galatyn Park Station,"2300 N. Central Expressway, Richardson",32.98467702,-96.711318,No
+5,Arapaho Center Station,"1051 N. Greenville Ave., Richardson",32.96368521,-96.72284275,No
+6,Spring Valley Station,"100 W. Spring Valley Road, Richardson",32.94106207,-96.73738608,No
+7,LBJ/Central Station,"8901 Markville Dr., Dallas",32.91861615,-96.752022,Yes
+8,Forest Lane Station,"8210 Forest Lane, Dallas",32.90872893,-96.7617709,Yes
+9,Walnut Hill Station,"8150 Walnut Hill Lane, Dallas",32.88330987,-96.76474544,Yes
+10,Park Lane Station,"8169 Park Lane, Dallas",32.87283758,-96.76591444,Yes
+11,Lovers Lane Station,"5603 Milton St., Dallas",32.84921631,-96.77160392,No
+12,SMU/Mockingbird Station,"5465 E. Mockingbird Lane, Dallas",32.83811004,-96.77494712,Yes
+13,CityPlace/Uptown Station,"2711 N. Haskell Ave., Dallas",32.80559815,-96.79390736,No
+14,Pearl/Arts District Station,"Bryan Street, east of Pearl Street, Dallas",32.78655939,-96.79443607,No
+15,St Paul Station,"Bryan Street, between St. Paul & Harwood streets, Dallas",32.78452298,-96.79693521,No
+16,Akard Station,"Pacific Avenue, between Akard & Field streets, Dallas",32.78205774,-96.80085016,No
+17,West End Station,"Pacific Ave., between Market & Lamar streets, Dallas",32.781052,-96.80558875,No
+19,Eddie Bernice Johnson Union Station,"400 S. Houston St., Dallas",32.7764873,-96.80753597,No
+20,Convention Center Station,"727 Botham Jean Blvd., Dallas",32.77259251,-96.80428582,No
+21,Cedars Station,"1112 Belleview St., Dallas.",32.76898185,-96.79351706,No
+22,8th & Corinth Station,"1740 E. 8th St., Dallas",32.74840239,-96.7984724,Yes
+23,Dallas Zoo Station,"614 S. Ewing Ave., Dallas",32.74097622,-96.8129511,No
+24,Tyler/Vernon Station,"1225 S. Tyler St., Dallas",32.7334052,-96.83840128,No
+25,Hampton Station,"2002 S. Hampton Road, Dallas",32.72651727,-96.85537573,Yes
+26,Westmoreland Station,"2646 S. Westmoreland Road, Dallas",32.71993994,-96.87201963,Yes

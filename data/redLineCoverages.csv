@@ -1,51 +1,51 @@
-station_no,radius,tot_pop,tot_hu,Name,Location,Latitude,Longitude,pop_coverage,hu_coverage
-1,1,13197,5132,Parker Road Station,"2600 Archerwood St., Plano",33.0341438701,-96.7007618,285787,146244
-2,1,10745,4536,Downtown Plano Station,"1001 E. 16th St., Plano",33.0208544001,-96.70094337,285787,146244
-3,1,10971,6338,CityLine/Bush Station,"1300 E. President George Bush Highway, Richardson",33.0021518601,-96.70321026,285787,146244
-4,1,9874,4817,Galatyn Park Station,"2300 N. Central Expressway, Richardson",32.9846770201,-96.711318,285787,146244
-5,1,9869,4547,Arapaho Center Station,"1051 N. Greenville Ave., Richardson",32.9636852101,-96.72284275,285787,146244
-6,1,13449,5924,Spring Valley Station,"100 W. Spring Valley Road, Richardson",32.9410620701,-96.73738608,285787,146244
-7,1,16929,8004,LBJ/Central Station,"8901 Markville Dr., Dallas",32.9186161501,-96.752022,285787,146244
-8,1,13759,7409,Forest Lane Station,"8210 Forest Lane, Dallas",32.908728930100004,-96.7617709,285787,146244
-9,1,21413,12230,Walnut Hill Station,"8150 Walnut Hill Lane, Dallas",32.8833098701,-96.76474544,285787,146244
-10,1,26720,14821,Park Lane Station,"8169 Park Lane, Dallas",32.872837580100004,-96.76591444,285787,146244
-11,1,27221,13870,Lovers Lane Station,"5603 Milton St., Dallas",32.849216310100005,-96.77160392,285787,146244
-12,1,24633,11926,SMU/Mockingbird Station,"5465 E. Mockingbird Lane, Dallas",32.8381100401,-96.77494712,285787,146244
-13,1,40788,29074,CityPlace/Uptown Station,"2711 N. Haskell Ave., Dallas",32.8055981501,-96.79390736,285787,146244
-14,1,27606,20743,Pearl/Arts District Station,"Bryan Street, east of Pearl Street, Dallas",32.7865593901,-96.79443607,285787,146244
-15,1,25816,19489,St Paul Station,"Bryan Street, between St. Paul & Harwood streets, Dallas",32.7845229801,-96.79693521,285787,146244
-16,1,23627,17007,Akard Station,"Pacific Avenue, between Akard & Field streets, Dallas",32.7820577401,-96.80085016,285787,146244
-17,1,22664,15121,West End Station,"Pacific Ave., between Market & Lamar streets, Dallas",32.781052000100004,-96.80558875,285787,146244
-19,1,18338,11030,Eddie Bernice Johnson Union Station,"400 S. Houston St., Dallas",32.7764873001,-96.80753597,285787,146244
-20,1,16000,9087,Convention Center Station,"727 Botham Jean Blvd., Dallas",32.772592510100004,-96.80428582,285787,146244
-21,1,11611,7448,Cedars Station,"1112 Belleview St., Dallas.",32.768981850100005,-96.79351706,285787,146244
-22,1,8263,3421,8th & Corinth Station,"1740 E. 8th St., Dallas",32.748402390100004,-96.7984724,285787,146244
-23,1,13657,5012,Dallas Zoo Station,"614 S. Ewing Ave., Dallas",32.7409762201,-96.8129511,285787,146244
-24,1,19900,6761,Tyler/Vernon Station,"1225 S. Tyler St., Dallas",32.7334052001,-96.83840128,285787,146244
-25,1,21926,7043,Hampton Station,"2002 S. Hampton Road, Dallas",32.726517270100004,-96.85537573,285787,146244
-26,1,20628,6433,Westmoreland Station,"2646 S. Westmoreland Road, Dallas",32.719939940100005,-96.87201963,285787,146244
-1,0.5,2875,1124,Parker Road Station,"2600 Archerwood St., Plano",33.03414387,-96.7007618,97308,52463
-2,0.5,2386,1038,Downtown Plano Station,"1001 E. 16th St., Plano",33.0208544,-96.70094337,97308,52463
-3,0.5,4533,3049,CityLine/Bush Station,"1300 E. President George Bush Highway, Richardson",33.00215186,-96.70321026,97308,52463
-4,0.5,2361,1152,Galatyn Park Station,"2300 N. Central Expressway, Richardson",32.98467702,-96.711318,97308,52463
-5,0.5,2227,1092,Arapaho Center Station,"1051 N. Greenville Ave., Richardson",32.96368521,-96.72284275,97308,52463
-6,0.5,2800,1343,Spring Valley Station,"100 W. Spring Valley Road, Richardson",32.94106207,-96.73738608,97308,52463
-7,0.5,4789,2474,LBJ/Central Station,"8901 Markville Dr., Dallas",32.91861615,-96.752022,97308,52463
-8,0.5,3079,1570,Forest Lane Station,"8210 Forest Lane, Dallas",32.90872893,-96.7617709,97308,52463
-9,0.5,4076,2460,Walnut Hill Station,"8150 Walnut Hill Lane, Dallas",32.88330987,-96.76474544,97308,52463
-10,0.5,5387,3153,Park Lane Station,"8169 Park Lane, Dallas",32.87283758,-96.76591444,97308,52463
-11,0.5,7912,4293,Lovers Lane Station,"5603 Milton St., Dallas",32.84921631,-96.77160392,97308,52463
-12,0.5,6209,3032,SMU/Mockingbird Station,"5465 E. Mockingbird Lane, Dallas",32.83811004,-96.77494712,97308,52463
-13,0.5,13032,9365,CityPlace/Uptown Station,"2711 N. Haskell Ave., Dallas",32.80559815,-96.79390736,97308,52463
-14,0.5,6375,4962,Pearl/Arts District Station,"Bryan Street, east of Pearl Street, Dallas",32.78655939,-96.79443607,97308,52463
-15,0.5,6529,5329,St Paul Station,"Bryan Street, between St. Paul & Harwood streets, Dallas",32.78452298,-96.79693521,97308,52463
-16,0.5,6456,5431,Akard Station,"Pacific Avenue, between Akard & Field streets, Dallas",32.78205774,-96.80085016,97308,52463
-17,0.5,6274,4950,West End Station,"Pacific Ave., between Market & Lamar streets, Dallas",32.781052,-96.80558875,97308,52463
-19,0.5,4138,2370,Eddie Bernice Johnson Union Station,"400 S. Houston St., Dallas",32.7764873,-96.80753597,97308,52463
-20,0.5,3273,1701,Convention Center Station,"727 Botham Jean Blvd., Dallas",32.77259251,-96.80428582,97308,52463
-21,0.5,2257,1468,Cedars Station,"1112 Belleview St., Dallas.",32.76898185,-96.79351706,97308,52463
-22,0.5,1891,701,8th & Corinth Station,"1740 E. 8th St., Dallas",32.74840239,-96.7984724,97308,52463
-23,0.5,2943,1019,Dallas Zoo Station,"614 S. Ewing Ave., Dallas",32.74097622,-96.8129511,97308,52463
-24,0.5,4837,1595,Tyler/Vernon Station,"1225 S. Tyler St., Dallas",32.7334052,-96.83840128,97308,52463
-25,0.5,5575,1781,Hampton Station,"2002 S. Hampton Road, Dallas",32.72651727,-96.85537573,97308,52463
-26,0.5,5139,1549,Westmoreland Station,"2646 S. Westmoreland Road, Dallas",32.71993994,-96.87201963,97308,52463
+station_no,radius,tot_pop,tot_hu,Name,Location,Latitude,Longitude,ParkNRide,pop_coverage,hu_coverage
+1,1,13197,5132,Parker Road Station,"2600 Archerwood St., Plano",33.0341438701,-96.7007618,No,285787,146244
+2,1,10745,4536,Downtown Plano Station,"1001 E. 16th St., Plano",33.0208544001,-96.70094337,No,285787,146244
+3,1,10971,6338,CityLine/Bush Station,"1300 E. President George Bush Highway, Richardson",33.0021518601,-96.70321026,No,285787,146244
+4,1,9874,4817,Galatyn Park Station,"2300 N. Central Expressway, Richardson",32.9846770201,-96.711318,No,285787,146244
+5,1,9869,4547,Arapaho Center Station,"1051 N. Greenville Ave., Richardson",32.9636852101,-96.72284275,No,285787,146244
+6,1,13449,5924,Spring Valley Station,"100 W. Spring Valley Road, Richardson",32.9410620701,-96.73738608,No,285787,146244
+7,1,16929,8004,LBJ/Central Station,"8901 Markville Dr., Dallas",32.9186161501,-96.752022,Yes,285787,146244
+8,1,13759,7409,Forest Lane Station,"8210 Forest Lane, Dallas",32.908728930100004,-96.7617709,Yes,285787,146244
+9,1,21413,12230,Walnut Hill Station,"8150 Walnut Hill Lane, Dallas",32.8833098701,-96.76474544,Yes,285787,146244
+10,1,26720,14821,Park Lane Station,"8169 Park Lane, Dallas",32.872837580100004,-96.76591444,Yes,285787,146244
+11,1,27221,13870,Lovers Lane Station,"5603 Milton St., Dallas",32.849216310100005,-96.77160392,No,285787,146244
+12,1,24633,11926,SMU/Mockingbird Station,"5465 E. Mockingbird Lane, Dallas",32.8381100401,-96.77494712,Yes,285787,146244
+13,1,40788,29074,CityPlace/Uptown Station,"2711 N. Haskell Ave., Dallas",32.8055981501,-96.79390736,No,285787,146244
+14,1,27606,20743,Pearl/Arts District Station,"Bryan Street, east of Pearl Street, Dallas",32.7865593901,-96.79443607,No,285787,146244
+15,1,25816,19489,St Paul Station,"Bryan Street, between St. Paul & Harwood streets, Dallas",32.7845229801,-96.79693521,No,285787,146244
+16,1,23627,17007,Akard Station,"Pacific Avenue, between Akard & Field streets, Dallas",32.7820577401,-96.80085016,No,285787,146244
+17,1,22664,15121,West End Station,"Pacific Ave., between Market & Lamar streets, Dallas",32.781052000100004,-96.80558875,No,285787,146244
+19,1,18338,11030,Eddie Bernice Johnson Union Station,"400 S. Houston St., Dallas",32.7764873001,-96.80753597,No,285787,146244
+20,1,16000,9087,Convention Center Station,"727 Botham Jean Blvd., Dallas",32.772592510100004,-96.80428582,No,285787,146244
+21,1,11611,7448,Cedars Station,"1112 Belleview St., Dallas.",32.768981850100005,-96.79351706,No,285787,146244
+22,1,8263,3421,8th & Corinth Station,"1740 E. 8th St., Dallas",32.748402390100004,-96.7984724,Yes,285787,146244
+23,1,13657,5012,Dallas Zoo Station,"614 S. Ewing Ave., Dallas",32.7409762201,-96.8129511,No,285787,146244
+24,1,19900,6761,Tyler/Vernon Station,"1225 S. Tyler St., Dallas",32.7334052001,-96.83840128,No,285787,146244
+25,1,21926,7043,Hampton Station,"2002 S. Hampton Road, Dallas",32.726517270100004,-96.85537573,Yes,285787,146244
+26,1,20628,6433,Westmoreland Station,"2646 S. Westmoreland Road, Dallas",32.719939940100005,-96.87201963,Yes,285787,146244
+1,0.5,2875,1124,Parker Road Station,"2600 Archerwood St., Plano",33.03414387,-96.7007618,No,97308,52463
+2,0.5,2386,1038,Downtown Plano Station,"1001 E. 16th St., Plano",33.0208544,-96.70094337,No,97308,52463
+3,0.5,4533,3049,CityLine/Bush Station,"1300 E. President George Bush Highway, Richardson",33.00215186,-96.70321026,No,97308,52463
+4,0.5,2361,1152,Galatyn Park Station,"2300 N. Central Expressway, Richardson",32.98467702,-96.711318,No,97308,52463
+5,0.5,2227,1092,Arapaho Center Station,"1051 N. Greenville Ave., Richardson",32.96368521,-96.72284275,No,97308,52463
+6,0.5,2800,1343,Spring Valley Station,"100 W. Spring Valley Road, Richardson",32.94106207,-96.73738608,No,97308,52463
+7,0.5,4789,2474,LBJ/Central Station,"8901 Markville Dr., Dallas",32.91861615,-96.752022,Yes,97308,52463
+8,0.5,3079,1570,Forest Lane Station,"8210 Forest Lane, Dallas",32.90872893,-96.7617709,Yes,97308,52463
+9,0.5,4076,2460,Walnut Hill Station,"8150 Walnut Hill Lane, Dallas",32.88330987,-96.76474544,Yes,97308,52463
+10,0.5,5387,3153,Park Lane Station,"8169 Park Lane, Dallas",32.87283758,-96.76591444,Yes,97308,52463
+11,0.5,7912,4293,Lovers Lane Station,"5603 Milton St., Dallas",32.84921631,-96.77160392,No,97308,52463
+12,0.5,6209,3032,SMU/Mockingbird Station,"5465 E. Mockingbird Lane, Dallas",32.83811004,-96.77494712,Yes,97308,52463
+13,0.5,13032,9365,CityPlace/Uptown Station,"2711 N. Haskell Ave., Dallas",32.80559815,-96.79390736,No,97308,52463
+14,0.5,6375,4962,Pearl/Arts District Station,"Bryan Street, east of Pearl Street, Dallas",32.78655939,-96.79443607,No,97308,52463
+15,0.5,6529,5329,St Paul Station,"Bryan Street, between St. Paul & Harwood streets, Dallas",32.78452298,-96.79693521,No,97308,52463
+16,0.5,6456,5431,Akard Station,"Pacific Avenue, between Akard & Field streets, Dallas",32.78205774,-96.80085016,No,97308,52463
+17,0.5,6274,4950,West End Station,"Pacific Ave., between Market & Lamar streets, Dallas",32.781052,-96.80558875,No,97308,52463
+19,0.5,4138,2370,Eddie Bernice Johnson Union Station,"400 S. Houston St., Dallas",32.7764873,-96.80753597,No,97308,52463
+20,0.5,3273,1701,Convention Center Station,"727 Botham Jean Blvd., Dallas",32.77259251,-96.80428582,No,97308,52463
+21,0.5,2257,1468,Cedars Station,"1112 Belleview St., Dallas.",32.76898185,-96.79351706,No,97308,52463
+22,0.5,1891,701,8th & Corinth Station,"1740 E. 8th St., Dallas",32.74840239,-96.7984724,Yes,97308,52463
+23,0.5,2943,1019,Dallas Zoo Station,"614 S. Ewing Ave., Dallas",32.74097622,-96.8129511,No,97308,52463
+24,0.5,4837,1595,Tyler/Vernon Station,"1225 S. Tyler St., Dallas",32.7334052,-96.83840128,No,97308,52463
+25,0.5,5575,1781,Hampton Station,"2002 S. Hampton Road, Dallas",32.72651727,-96.85537573,Yes,97308,52463
+26,0.5,5139,1549,Westmoreland Station,"2646 S. Westmoreland Road, Dallas",32.71993994,-96.87201963,Yes,97308,52463
