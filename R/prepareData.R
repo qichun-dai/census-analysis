@@ -119,3 +119,4 @@ check <- tractOutput%>%
 # write csv files
 write_csv(tractOutput, file = "./data/txoutput.csv")
 write_csv(coverages, file = "./data/redLineCoverages.csv")
+
